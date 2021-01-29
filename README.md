@@ -1,2 +1,3 @@
 # HackerRank
-[My HackerRank solutions](https://www.hackerrank.com/dario_santarelli)
+My HackerRank solutions
+Click [here](https://www.hackerrank.com/dario_santarelli) to visit my profile.
